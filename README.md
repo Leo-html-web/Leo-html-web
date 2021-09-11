@@ -1,0 +1,5 @@
+- 👋 Olá, sou @ Leo-html-web;
+- 👀 Estou interessado em aprender cada vez mais;
+- 🌱 Atualmente estou aprendendo git, github, HTML5, CSS3 e JS;
+- 💞️ Com o pouco que sei até agora estou procurando colaborar com a comunidade, dando sempre o meu melhor!
+- 📫 Como chegar até mim? E-mail: leonardoferreiraivmt@gmail.com
